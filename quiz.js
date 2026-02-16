@@ -142,7 +142,7 @@ const results = {
 Переходи в мое безопасное пространство чтобы получить подарок!
 
 Не думай ни минуты, ответ уже ждет тебя! Прямо сейчас напиши полученный результат  вот под этим постом  </strong> 
-<a href="https://t.me/darina_v_smisle/273" target="_blank" rel="noopener noreferrer">
+<a href="https://t.me/darina_v_smisle/316" target="_blank" rel="noopener noreferrer">
 ссылка на пост
 </a>
 
@@ -204,7 +204,7 @@ const results = {
 <strong>С тобой все так! Твои смыслы нужны людям. 
 Переходи в пространство где ты сможешь быть собой!</strong>
 
-Прямо сейчас напиши полученный результат  вот под этим постом  <a href="https://t.me/darina_v_smisle/273" target="_blank" rel="noopener noreferrer">
+Прямо сейчас напиши полученный результат  вот под этим постом  <a href="https://t.me/darina_v_smisle/316" target="_blank" rel="noopener noreferrer">
 ссылка на пост
 </a>
  я вышлю тебе подкаст инструкцию с очень ценным бонусом внутри! 
@@ -302,7 +302,7 @@ const results = {
 Ты не слишком, ты особенный эксперт чьи смыслы могут зажигать огонь внутри других! 
 Твои смыслы нужны людям. 
 
-Прямо сейчас напиши полученный результат  вот под этим постом  <a href="https://t.me/darina_v_smisle/273" target="_blank" rel="noopener noreferrer">
+Прямо сейчас напиши полученный результат  вот под этим постом  <a href="https://t.me/darina_v_smisle/316" target="_blank" rel="noopener noreferrer">
 ссылка на пост
 </a>
 <strong>я вышлю тебе подкаст инструкцию с очень ценным бонусом внутри! 
@@ -363,7 +363,7 @@ const results = {
 <strong>Ты не слишком, ты особенный эксперт чьи смыслы могут зажигать огонь внутри других! 
 Твои смыслы нужны людям. </strong>
 
-Прямо сейчас напиши полученный результат  вот под этим постом  <a href="https://t.me/darina_v_smisle/273" target="_blank" rel="noopener noreferrer">
+Прямо сейчас напиши полученный результат  вот под этим постом  <a href="https://t.me/darina_v_smisle/316" target="_blank" rel="noopener noreferrer">
 ссылка на пост
 </a>
  я вышлю тебе подкаст инструкцию с очень ценным бонусом внутри! 
